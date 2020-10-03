@@ -7,11 +7,10 @@ http://cs.brown.edu/courses/cs143/2011/results/proj4/psastras/
 
 ##### 2 运行方法
 
-下载data文件夹的数据集
-
-将代码放到matlab中，修改project4.m中的data_path为data文件夹的路径
-
-运行project4.m文件即可
+1. 将data文件夹的三个zip文件解压，仍放在data文件夹中
+2. 将test_scences的test.zip和test_jpg.zip解压，仍然放到test_scenes文件夹内
+3. 将代码放到matlab中，修改project4.m中的data_path为data文件夹的路径
+4. 运行project4.m文件即可
 
 
 
