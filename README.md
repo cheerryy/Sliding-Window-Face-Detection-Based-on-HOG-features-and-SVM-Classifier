@@ -1,4 +1,10 @@
 # Sliding-Window-Face-Detection-Based-on-HOG-features-and-SVM-Classifier
+
+#### Update: data数据百度网盘
+链接：https://pan.baidu.com/s/1BqiHxWeRFUWY1Uxb-mMFAA 
+提取码：0amu 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
+
 #### 1 实验目的
 
 利用滑动窗口进行面部识别
