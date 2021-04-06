@@ -5,6 +5,19 @@
 提取码：0amu 
 复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
 
+#### Update: vlfeat库
+链接：https://pan.baidu.com/s/16KTIa0DttIWLae0K9_c2dw 
+提取码：p31i 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
+
+注意：
+进行该实验前需要安装vlfeat库，安装方法为：
+a）下载 VLFeat 的安装包在其解压到任意目录下。
+b）在 matlab 中新建 startup.m 文件
+c）在 startup.m 文件中输入 run('......\vlfeat-0.9.21\toolbox\vl_setup')并运行，即可安装
+d）在 matlab 命令行中输入 vl_version ，得到 vlfeat 的版本号以检验是否安装成功
+
+
 #### 1 实验目的
 
 利用滑动窗口进行面部识别
