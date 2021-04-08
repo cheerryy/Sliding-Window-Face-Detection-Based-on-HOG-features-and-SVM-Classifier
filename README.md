@@ -12,10 +12,10 @@
 
 注意：
 进行该实验前需要安装vlfeat库，安装方法为：
-a）下载 VLFeat 的安装包在其解压到任意目录下。
-b）在 matlab 中新建 startup.m 文件
-c）在 startup.m 文件中输入 run('......\vlfeat-0.9.21\toolbox\vl_setup')并运行，即可安装
-d）在 matlab 命令行中输入 vl_version ，得到 vlfeat 的版本号以检验是否安装成功
+- a）下载 VLFeat 的安装包在其解压到任意目录下。
+- b）在 matlab 中新建 startup.m 文件
+- c）在 startup.m 文件中输入 run('......\vlfeat-0.9.21\toolbox\vl_setup')并运行，即可安装
+- d）在 matlab 命令行中输入 vl_version ，得到 vlfeat 的版本号以检验是否安装成功
 
 
 #### 1 实验目的
