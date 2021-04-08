@@ -17,6 +17,11 @@
 - c）在 startup.m 文件中输入 run('......\vlfeat-0.9.21\toolbox\vl_setup')并运行，即可安装
 - d）在 matlab 命令行中输入 vl_version ，得到 vlfeat 的版本号以检验是否安装成功
 
+Update：
+运行效果的录屏（不完整版）
+链接：https://pan.baidu.com/s/1UB7aIsVzFVfnHd7L6pvybw 
+提取码：aztz 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V4的分享
 
 #### 1 实验目的
 
